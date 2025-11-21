@@ -8,6 +8,7 @@
 ![tophat back hole](/pics/tophatbackhole01.png)
 ![tophat back hole](/pics/tophatbackhole02.png)
 ![tophat insert nut holes](/pics/tophat06.png)
+![tophat cable tie holes](/pics/cabletieholes.png)
 
 Snapmaker U1 DIY Top Hat 입니다.</br>
 This is a Snapmaker U1 DIY Top Hat.
@@ -20,8 +21,10 @@ Buy me a coffee!
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
 챔버 히터 등 각자 필요한 구조물을 설계하여 Top Hat의 상단에 추가할 수 있습니다.</br>
+케이블 타이로 케이블을 정리할 수 있습니다.</br>
 There are insert nut holes (3x4x5) spaced 10mm apart on the top of the printed parts.</br>
-You can design additional structures such as a chamber heater and attach them onto the top of the Top Hat.
+You can design additional structures such as a chamber heater and attach them onto the top of the Top Hat.</br>
+You can organize cables using cable ties.
 
 - 출력물 하단에 케이블 통과용 구멍을 뚫어두었습니다.</br>
 필요한 구조물을 설계한 후 이 구멍을 통해 케이블을 지나가게 할 수 있습니다.</br>
