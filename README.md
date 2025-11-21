@@ -13,6 +13,9 @@
 Snapmaker U1 DIY Top Hat 입니다.</br>
 This is a Snapmaker U1 DIY Top Hat.
 
+최소한 250mm 출력이 가능한 프린터가 필요합니다.</br>
+A printer capable of printing at least 250mm is required.
+
 - 저에게 커피 한 잔!</br>
 Buy me a coffee!
 
