@@ -3,6 +3,8 @@
 
 Snapmaker U1 DIY Top Hat 입니다.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/srin)
+
 ## BOM
 - 목공용 도웰핀 직경 6mm x 길이 30mm ~ 40mm 30개 (30개보다 여유있게 준비하세요)
 - 3M VHB 양면테이프 폭 10mm
