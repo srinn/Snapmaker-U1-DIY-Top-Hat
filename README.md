@@ -13,8 +13,8 @@
 Snapmaker U1 DIY Top Hat 입니다.</br>
 This is a Snapmaker U1 DIY Top Hat.
 
-[!["printables"](https://www.printables.com/model/1488431-snapmaker-u1-top-hat-by-srin)
-[!["makerworld"](https://makerworld.com/ko/models/2022565-snapmaker-u1-top-hat-by-srin)
+[Printables](https://www.printables.com/model/1488431-snapmaker-u1-top-hat-by-srin)
+[Makerworld](https://makerworld.com/ko/models/2022565-snapmaker-u1-top-hat-by-srin)
 
 최소한 250mm 출력이 가능한 프린터가 필요합니다.</br>
 A printer capable of printing at least 250mm is required.
