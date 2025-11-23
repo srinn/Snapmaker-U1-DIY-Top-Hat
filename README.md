@@ -52,16 +52,16 @@ The four mounting feet inserted at the bottom of the printed parts allow the Top
 3M VHB double-sided tape, width 10mm
 - 폼 테이프 두께 1mm 폭 10mm (글쓴이는 20mm 짜리를 사서 세로로 잘라 10mm로 사용했습니다)</br>
 Foam tape thickness 1mm, width 10mm (I bought 20mm and cut it vertically to 10mm)
-- 상단 비탈면 덮개 PC 패널 363mm × 242mm – 1개</br>
-Top sloped cover PC panel 363mm × 242mm – 1 pcs
-- 상단 덮개 PC 패널 363mm × 228mm – 1개</br>
-Top cover PC panel 363mm × 228mm – 1 pcs
-- 뒷면 PC 패널 363mm × 254mm – 1개</br>
-Rear PC panel 363mm × 254mm – 1 pcs
-- 앞면 PC 패널 363mm × 108mm – 1개</br>
-Front PC panel 363mm × 108mm – 1 pcs
-- 사이드 PC 패널 461mm × 254mm – 2개 (대각선 절단 223mm, 116mm) **주의사항: 도면을 참고하세요.**</br>
-Side PC panels 461mm × 254mm – 2 pcs (diagonal cut 223mm, 116mm) **Important: refer to the drawings.**
+- 상단 비탈면 덮개 PC 패널 3T 363mm × 242mm – 1개</br>
+Top sloped cover PC panel 3T 363mm × 242mm – 1 pcs
+- 상단 덮개 PC 패널 3T 363mm × 228mm – 1개</br>
+Top cover PC panel 3T 363mm × 228mm – 1 pcs
+- 뒷면 PC 패널 3T 363mm × 254mm – 1개</br>
+Rear PC panel 3T 363mm × 254mm – 1 pcs
+- 앞면 PC 패널 3T 363mm × 108mm – 1개</br>
+Front PC panel 3T 363mm × 108mm – 1 pcs
+- 사이드 PC 패널 3T 461mm × 254mm – 2개 (대각선 절단 223mm, 116mm) **주의사항: 도면을 참고하세요.**</br>
+Side PC panels 3T 461mm × 254mm – 2 pcs (diagonal cut 223mm, 116mm) **Important: refer to the drawings.**
 
 사이드 PC 패널</br>
 Side PC Panel
