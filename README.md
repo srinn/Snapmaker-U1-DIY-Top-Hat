@@ -27,8 +27,8 @@ Buy me a coffee!
 ## 중요 변경 사항 / Important change
 1. 2025/11/24 PM 12:15 (GMT+0900, South Korea)
    - 중요한 변경 사항입니다.
-STL 파일을 생성하고 업로드하기 전에 어떤 이유에서인지 지지 구조가 정렬되지 않았습니다. 진심으로 사과드립니다.
-지지 구조를 수정하여 다시 제작했습니다. 영향을 받은 출력물은 상면 STL 파일 4개입니다.
+STL 파일을 생성하고 업로드하기 전 어떤 이유에서인지 서포트 구조물이 정렬되지 않았습니다. 진심으로 사과드립니다.
+서포트 구조물을 수정하여 다시 제작했습니다. 영향을 받은 출력물은 Upper Face STL 파일 4개입니다.
 다시 한번 진심으로 사과드립니다.</br>
     This is an important change.
 For some reason, the support structures were misaligned before the STL file was created and uploaded. I sincerely apologize.
@@ -36,10 +36,25 @@ I have corrected the support structures and recreated them. The affected prints 
 Again, I sincerely apologize.
 2. 2025/11/24 PM 02:37 (GMT+0900, South Korea)
    - 작은 프린터를 위한 모델이 추가되었습니다. 최소 180mm 이상의 프린터에서 출력 가능합니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 48개 이상 준비하세요.</br>
-     A model for small printers has been added. It can be printed on printers at least 180mm wide. Prepare at least 48 wooden dowel pins Ø6mm × length 30–40mm.
+     A model for small printers has been added. It can be printed on printers at least 180mm wide. Prepare at least 48 wooden dowel pins Ø6mm × length 30–40mm.</br>
+     ![smallerprinter](/pics/smallerprinter.png)
 3. 2025/11/24 PM 05:30 (GMT+0900, South Korea)
    - Plexi glass 가 없는 모델이 추가되었습니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 59개 이상 준비하세요.</br>
-   Added models without Plexi glass. Prepare at least 59 wooden dowel pins Ø6mm × length 30–40mm.
+     Added models without Plexi glass. Prepare at least 59 wooden dowel pins Ø6mm × length 30–40mm.</br>
+     ![noplexi](/pics/noplexi01.png)</br>
+     ![noplexi](/pics/noplexi02.png)
+4. 2025/11/24 PM 06:39 (GMT+0900, South Korea)
+   - 비탈면이 없이 꼭대기가 평평한 모델이 추가되었습니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 24개 이상 준비하세요.</br>
+     Added a model with a flat top and no slope. Prepare at least 24 wooden dowel pins Ø6mm × length 30–40mm.</br>
+     ![noslope](/pics/noslope.png)</br>
+     비탈면 없는 버전 모델 전용 PC 패널 사이즈는 다음과 같습니다.</br>
+     PC panel sizes for No slope version model only are as follows:
+       - 상단 덮개 PC 패널 3T 363mm × 457mm – 1개</br>
+         Top cover PC panel 3T 363mm × 457mm – 1 pcs
+       - 앞면 및 뒷면 PC 패널 3T 363mm × 254mm – 2개</br>
+         Front and Rear PC panel 3T 363mm × 254mm – 2 pcs
+       - 사이드 PC 패널 3T 461mm × 254mm – 2개</br>
+         Side PC panels 3T 461mm × 254mm – 2 pcs
 
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
