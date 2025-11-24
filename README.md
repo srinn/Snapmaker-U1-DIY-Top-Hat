@@ -25,7 +25,7 @@ Buy me a coffee!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/srin)
 
 ## 중요 변경 사항 / Important change
-1. 2025/11/24
+1. 2025/11/24 PM 12:15 (GMT+0900, South Korea)
    - 중요한 변경 사항입니다.
 STL 파일을 생성하고 업로드하기 전에 어떤 이유에서인지 지지 구조가 정렬되지 않았습니다. 진심으로 사과드립니다.
 지지 구조를 수정하여 다시 제작했습니다. 영향을 받은 출력물은 상면 STL 파일 4개입니다.
@@ -34,6 +34,9 @@ STL 파일을 생성하고 업로드하기 전에 어떤 이유에서인지 지�
 For some reason, the support structures were misaligned before the STL file was created and uploaded. I sincerely apologize.
 I have corrected the support structures and recreated them. The affected prints are the four Upper Face STL parts.
 Again, I sincerely apologize.
+2. 2025/11/24 PM 02:37 (GMT+0900, South Korea)
+   - 작은 프린터를 위한 모델이 추가되었습니다. 최소 180mm 이상의 프린터에서 출력 가능합니다.</br>
+     A model for small printers has been added. It can be printed on printers at least 180mm wide.
 
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
