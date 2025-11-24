@@ -24,6 +24,17 @@ Buy me a coffee!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/srin)
 
+## 중요 변경 사항 / Important change
+1. 2025/11/24
+   - 중요한 변경 사항입니다.
+STL 파일을 생성하고 업로드하기 전에 어떤 이유에서인지 지지 구조가 정렬되지 않았습니다. 진심으로 사과드립니다.
+지지 구조를 수정하여 다시 제작했습니다. 영향을 받은 출력물은 상면 STL 파일 4개입니다.
+다시 한번 진심으로 사과드립니다.</br>
+    This is an important change.
+For some reason, the support structures were misaligned before the STL file was created and uploaded. I sincerely apologize.
+I have corrected the support structures and recreated them. The affected prints are the four Upper Face STL parts.
+Again, I sincerely apologize.
+
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
 챔버 히터 등 각자 필요한 구조물을 설계하여 Top Hat의 상단에 추가할 수 있습니다.</br>
