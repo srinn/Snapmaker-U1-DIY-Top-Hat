@@ -37,6 +37,9 @@ Again, I sincerely apologize.
 2. 2025/11/24 PM 02:37 (GMT+0900, South Korea)
    - 작은 프린터를 위한 모델이 추가되었습니다. 최소 180mm 이상의 프린터에서 출력 가능합니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 48개 이상 준비하세요.</br>
      A model for small printers has been added. It can be printed on printers at least 180mm wide. Prepare at least 48 wooden dowel pins Ø6mm × length 30–40mm.
+3. 2025/11/24 PM 05:30 (GMT+0900, South Korea)
+   - Plexi glass 가 없는 모델이 추가되었습니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 59개 이상 준비하세요.</br>
+   Added models without Plexi glass. Prepare at least 59 wooden dowel pins Ø6mm × length 30–40mm.
 
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
