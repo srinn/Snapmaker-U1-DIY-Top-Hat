@@ -63,6 +63,8 @@ Again, I sincerely apologize.
      PC panel sizes for Huge slope version model only are as follows:
        - 상단 덮개 PC 패널 3T 363mm × 228mm – 1개</br>
          Top cover PC panel 3T 363mm × 228mm – 1 pcs
+       - 상단 비탈면 덮개 PC 패널 3T 363mm × 336mm – 1개</br>
+         Top sloped cover PC panel 3T 363mm × 336mm – 1 pcs
        - 뒷면 PC 패널 3T 363mm × 259mm – 1개</br>
          Front and Rear PC panel 3T 363mm × 259mm – 1 pcs
        - 사이드 PC 패널 3T 445mm × 259mm – 2개 (대각선 절단 219mm) **주의사항: 도면을 참고하세요.**</br>
