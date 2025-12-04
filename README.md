@@ -35,7 +35,7 @@ Supports three types of models: Original Model, Huge Slope Version, and No Slope
 Ordering a BOM kit here will directly help me!
 
 물론 여전히 당신이 원하는 곳에서 자유롭게 PC 패널과 목공용 도웰핀을 직접 주문할 수 있습니다!</br>
-Of course, you can still freely order PC panels and woodworking dowel pins directly from wherever you want!
+Of course, you can still freely order PC panels and wooden dowel pins directly from wherever you want!
 
 아래의 Blurolls 링크를 클릭하여 주문하실 수 있습니다.</br>
 You can order by clicking the Blurolls link below.
