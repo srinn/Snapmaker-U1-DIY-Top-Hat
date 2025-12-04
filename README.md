@@ -26,7 +26,7 @@ Buy me a coffee!
 
 ## BOM 구매처 / Ordering BOM
 Blurolls와 협업하여 출력물을 제외한 BOM 키트를 구매할 수 있는 상품 페이지를 마련했습니다.</br>
-In collaboration with Blurolls, we've created a product page where you can purchase the BOM kit, excluding the printout.
+In collaboration with Blurolls, we've created a product page where you can purchase the BOM kit, excluding the printed parts.
 
 오리지널 모델, 비탈면이 긴 버전, 비탈면이 없는 버전의 총 세 종류의 모델을 지원합니다.</br>
 Supports three types of models: Original Model, Huge Slope Version, and No Slope Version.
