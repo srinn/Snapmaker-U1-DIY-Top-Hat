@@ -24,6 +24,24 @@ Buy me a coffee!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/srin)
 
+## BOM 구매처 / Ordering BOM
+Blurolls와 협업하여 출력물을 제외한 BOM 키트를 구매할 수 있는 상품 페이지를 마련했습니다.</br>
+In collaboration with Blurolls, we've created a product page where you can purchase the BOM kit, excluding the printout.
+
+오리지널 모델, 비탈면이 긴 버전, 비탈면이 없는 버전의 총 세 종류의 모델을 지원합니다.</br>
+Supports three types of models: Original Model, Huge Slope Version, and No Slope Version.
+
+이 곳에서 BOM 키트를 주문하시면 저에게 직접적인 도움이 됩니다!</br>
+Ordering a BOM kit here will directly help me!
+
+물론 여전히 당신이 원하는 곳에서 자유롭게 PC 패널과 목공용 도웰핀을 직접 주문할 수 있습니다!</br>
+Of course, you can still freely order PC panels and woodworking dowel pins directly from wherever you want!
+
+아래의 Blurolls 링크를 클릭하여 주문하실 수 있습니다.</br>
+You can order by clicking the Blurolls link below.
+
+[!["Blurolls"](/pics/blurollslogo.webp)](https://www.blurolls3d.com/products/snapmaker-u1-top-hat-pc-panels-kit-designed-by-srin)
+
 ## 중요 변경 사항 / Important change
 1. 2025/11/24 PM 12:15 (GMT+0900, South Korea)
    - 중요한 변경 사항입니다.
