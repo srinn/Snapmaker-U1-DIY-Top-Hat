@@ -93,13 +93,13 @@ Again, I sincerely apologize.
 6. 2025/12/05 PM 01:17 (GMT+0900, South Korea)
    - 정면, 비탈면 Plexi glass 만 존재하는 모델이 추가되었습니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 52개 이상 준비하세요.</br>
      A model with only Plexi glass on the front and slope sides has been added. Prepare at least 52 wooden dowel pins Ø6mm × length 30–40mm.</br>
+     ![frontandslopeonly](/pics/frontandslopeonly.png)</br>
      Front and slope plexiglass only version 모델은 오리지널 모델과 사이즈를 공유합니다. PC 패널 사이즈는 다음과 같습니다.</br>
      The Front and Slope Plexiglass Only version shares the same dimensions as the original model. The PC panel sizes are as follows:
-         - 상단 비탈면 덮개 PC 패널 3T 363mm × 242mm – 1개</br>
-           Top sloped cover PC panel 3T 363mm × 242mm – 1 pcs
-         - 앞면 PC 패널 3T 363mm × 108mm – 1개</br>
-           Front PC panel 3T 363mm × 108mm – 1 pcs
-           ![frontandslopeonly](/pics/frontandslopeonly.png)</br>
+       - 상단 비탈면 덮개 PC 패널 3T 363mm × 242mm – 1개</br>
+         Top sloped cover PC panel 3T 363mm × 242mm – 1 pcs
+       - 앞면 PC 패널 3T 363mm × 108mm – 1개</br>
+         Front PC panel 3T 363mm × 108mm – 1 pcs
 
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
