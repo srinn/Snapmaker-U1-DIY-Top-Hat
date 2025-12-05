@@ -205,8 +205,8 @@ If it prints longer, reduce the overall scale slightly when printing the Top Hat
 예를 들어 X축으로 200mm인 긴 출력물을 출력하고 그 출력물을 측정했을 때의 길이가 201mm라면,</br>
 Example: If a 200mm bar prints as 201mm,
 
-200 ÷ 201 = 0.995 = 99.5% 이므로 Top Hat 출력물의 전체 크기를 99.5% 이하로 변경해 출력하세요.</br>
-200 ÷ 201 = 0.995 → scale to ~99.5% or slightly less for Top Hat.
+200 ÷ 201 = 0.99502 = 99.502% 이므로 Top Hat 출력물의 전체 크기를 99.5% 이하로 변경해 출력하세요.</br>
+200 ÷ 201 = 0.99502 = 99.502% → scale to ~99.5% or slightly less for Top Hat.
 
 (2025/12/05) 전체 길이를 측정하고 출력물의 축척을 계산하기 위한 모델을 추가하였습니다.</br>
 (2025/12/05) Added a model to measure the overall length and calculate the scale of the output.
