@@ -100,6 +100,23 @@ Again, I sincerely apologize.
          Top sloped cover PC panel 3T 363mm × 242mm – 1 pcs
        - 앞면 PC 패널 3T 363mm × 108mm – 1개</br>
          Front PC panel 3T 363mm × 108mm – 1 pcs
+7. 2025/12/05 PM 04:20 (GMT+0900, South Korea)
+   - 비탈면이 긴 모델의 변형이 추가되었습니다. 비탈면을 제외한 곳에 6T PC 패널을 사용합니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 24개 이상 준비하세요.</br>
+     A variant of the Huge Slope model has been added. It uses 6T PC panels on all surfaces except the slope. Prepare at least 24 wooden dowel pins Ø6mm × length 30–40mm.</br>
+     ![hugeslopewith6t](/pics/hugeslopewith6t.png)</br>
+     비탈면이 긴 6T Plexiglass 모델 전용 PC 패널 사이즈는 다음과 같습니다.</br>
+     PC panel sizes for Huge slope with 6T plexiglass version model only are as follows:
+       - 상단 덮개 PC 패널 6T 363mm × 227mm – 1개</br>
+         Top cover PC panel 6T 363mm × 227mm – 1 pcs
+       - 상단 비탈면 덮개 PC 패널 3T 363mm × 336mm – 1개</br>
+         Top sloped cover PC panel 3T 363mm × 336mm – 1 pcs
+       - 뒷면 PC 패널 6T 363mm × 259mm – 1개</br>
+         Front and Rear PC panel 6T 363mm × 259mm – 1 pcs
+       - 사이드 PC 패널 6T 445mm × 259mm – 2개 (대각선 절단 219mm) **주의사항: 도면을 참고하세요.**</br>
+         Side PC panels 6T 445mm × 259mm – 2 pcs (diagonal cut 219mm) **Important: refer to the drawings.**</br>
+         사이드 PC 패널</br>
+         Side PC Panel</br>
+         ![sidepanel](/pics/hugeslopesidepanel.png)
 
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
