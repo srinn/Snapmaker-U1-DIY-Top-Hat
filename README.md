@@ -76,7 +76,7 @@ Again, I sincerely apologize.
 5. 2025/11/28 PM 11:48 (GMT+0900, South Korea)
    - 정면 Plexi glass 가 없고 비탈면이 긴 모델이 추가되었습니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 24개 이상 준비하세요.</br>
      A model without front Plexi glass and with a long slope has been added. Prepare at least 24 wooden dowel pins Ø6mm × length 30–40mm.</br>
-     ![noslope](/pics/hugeslope.png)</br>
+     ![hugeslope](/pics/hugeslope.png)</br>
      비탈면이 긴 버전 모델 전용 PC 패널 사이즈는 다음과 같습니다.</br>
      PC panel sizes for Huge slope version model only are as follows:
        - 상단 덮개 PC 패널 3T 363mm × 228mm – 1개</br>
@@ -90,6 +90,16 @@ Again, I sincerely apologize.
          사이드 PC 패널</br>
          Side PC Panel</br>
          ![sidepanel](/pics/hugeslopesidepanel.png)
+6. 2025/12/05 PM 01:17 (GMT+0900, South Korea)
+   - 정면, 비탈면 Plexi glass 만 존재하는 모델이 추가되었습니다. 목공용 도웰핀 직경 Ø6mm x 길이 30mm–40mm 를 52개 이상 준비하세요.</br>
+     A model with only Plexi glass on the front and slope sides has been added. Prepare at least 52 wooden dowel pins Ø6mm × length 30–40mm.</br>
+     Front and slope plexiglass only version 모델은 오리지널 모델과 사이즈를 공유합니다. PC 패널 사이즈는 다음과 같습니다.</br>
+     The Front and Slope Plexiglass Only version shares the same dimensions as the original model. The PC panel sizes are as follows:
+         - 상단 비탈면 덮개 PC 패널 3T 363mm × 242mm – 1개</br>
+           Top sloped cover PC panel 3T 363mm × 242mm – 1 pcs
+         - 앞면 PC 패널 3T 363mm × 108mm – 1개</br>
+           Front PC panel 3T 363mm × 108mm – 1 pcs
+           ![frontandslopeonly](/pics/frontandslopeonly.png)</br>
 
 ## 기능 / Features
 - 출력물 상단에 10mm 간격으로 3x4x5 인서트 너트 구멍을 뚫어두었습니다.</br>
@@ -177,6 +187,9 @@ Print and insert it between connected parts with dowel pins to extend length.
 Spacer 출력 방법은 Spacer 출력 방법 섹션을 참고하세요.</br>
 Refer to the Spacer printing section below.
 
+일부 모델은 구조상 Spacer 를 만들 수 없습니다. 따라서 Spacer 가 존재하지 않을 수도 있습니다.</br>
+Some models are structurally unable to create a Spacer, so a Spacer may not exist.
+
 출력물의 전체 크기가 설계된 길이보다 크면 U1 상단의 고무 패킹에 커버의 발을 끼울 수 없을 수도 있습니다.</br>
 If the total size is longer than intended, the feet may not fit into the rubber packing on the U1 top.
 
@@ -192,8 +205,21 @@ If it prints longer, reduce the overall scale slightly when printing the Top Hat
 예를 들어 X축으로 200mm인 긴 출력물을 출력하고 그 출력물을 측정했을 때의 길이가 201mm라면,</br>
 Example: If a 200mm bar prints as 201mm,
 
-200 ÷ 201 = 0.99502 = 99.502% 이므로 Top Hat 출력물의 전체 크기를 99.5% 이하로 줄여 출력하세요.</br>
-200 ÷ 201 = 0.99502 → scale to ~99.5% or slightly less for Top Hat.
+201 ÷ 200 = 1.005 = 100.5% 이므로 Top Hat 출력물의 전체 크기를 100.5% 이하로 변경해 출력하세요.</br>
+201 ÷ 200 = 1.005 → scale to ~100.5% or slightly less for Top Hat.
+
+(2025/12/05) 전체 길이를 측정하고 출력물의 축척을 계산하기 위한 모델을 추가하였습니다.</br>
+(2025/12/05) Added a model to measure the overall length and calculate the scale of the output.
+![measure](/pics/measure.png)
+
+ETC/Calibrate.stl 파일을 내려받아 2개 출력한 후 전체 길이를 측정하세요.</br>
+Download the ETC/Calibrate.stl file, print two copies, and measure the total length.
+
+측정된 전체 길이가 502.4mm 였다면 507 ÷ 502.4 = 1.00915 = 100.91% 를 계산한 후 이 스케일을 모든 출력물에 적용하세요.</br>
+If the measured total length was 502.4mm, calculate 507 ÷ 502.4 = 1.00915 = 100.91% and apply this scale to all outputs.
+
+확실히 맞는 값인지 확인하고 싶다면 Calibrate.stl 의 스케일을 변경하여 다시 한 번 출력해 보세요.</br> 
+If you want to make sure that the values ​​are correct, try changing the scale of Calibrate.stl and printing it again.
 
 너무 작게 출력하지 마세요! 조립할 수 없을 수도 있습니다.</br>
 Do not scale too small! It may prevent assembly.
