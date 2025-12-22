@@ -45,7 +45,7 @@ Supports Original Model.
 아래의 Fysetc 링크를 클릭하여 주문하실 수 있습니다.</br>
 You can order by clicking the Fysetc link below.
 
-[!["Fysetc"](/pics/fysetc.png/)](https://a.aliexpress.com/_c3aTZ8dJ)
+[!["Fysetc"](/pics/fysetc.png)](https://a.aliexpress.com/_c3aTZ8dJ)
 
 위의 구매 링크에서 BOM 키트를 주문하시면 저에게 직접적인 도움이 됩니다!</br>
 Ordering a BOM kit here will directly help me!
