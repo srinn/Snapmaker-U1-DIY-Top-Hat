@@ -36,7 +36,7 @@ You can order by clicking the Blurolls link below.
 
 [!["Blurolls"](/pics/blurollslogo.webp)](https://www.blurolls3d.com/products/snapmaker-u1-top-hat-pc-panels-kit-designed-by-srin)
 
-Fysetc와 협업을 진행하여 출력물을 제외한 BOM 키트를 구매할 수 있는 상품 페이지를 마련했습니다.
+Fysetc와 협업을 진행하여 출력물을 제외한 BOM 키트를 구매할 수 있는 상품 페이지를 마련했습니다.</br>
 In collaboration with Fysetc, we've created a product page where you can purchase the BOM kit, excluding the printed parts.
 
 오리지널 모델을 지원합니다.</br>
